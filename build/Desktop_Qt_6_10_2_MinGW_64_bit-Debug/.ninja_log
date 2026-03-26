@@ -1,0 +1,19 @@
+# ninja log v6
+22	3693	7962336512399781	build.ninja	97256228a38e4f2f
+44	576	7962333548462065	QuickPad_autogen/timestamp	9ffdcbfe113dac12
+44	576	7962333548462065	C:/Users/karin/Documents/QuickPad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/QuickPad_autogen/mocs_compilation.cpp	9ffdcbfe113dac12
+44	576	7962333548462065	QuickPad_autogen/mocs_compilation.cpp	9ffdcbfe113dac12
+1955	7304	7962333341841656	CMakeFiles/QuickPad.dir/main.cpp.obj	905ed7ed80096b59
+579	5552	7962333553814386	CMakeFiles/QuickPad.dir/mainwindow.cpp.obj	843d85794f1069b8
+44	576	7962333548462065	C:/Users/karin/Documents/QuickPad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/QuickPad_autogen/timestamp	9ffdcbfe113dac12
+1945	7261	7962333341735052	CMakeFiles/QuickPad.dir/QuickPad_autogen/mocs_compilation.cpp.obj	a931103792cefe7
+5554	6426	7962333603565902	QuickPad.exe	d417d6f73a1dcf8e
+32	1828	7962336512399781	build.ninja	97256228a38e4f2f
+24	1453	7962336526745160	QuickPad_autogen/timestamp	9ffdcbfe113dac12
+24	1453	7962336526745160	QuickPad_autogen/mocs_compilation.cpp	9ffdcbfe113dac12
+24	1453	7962336526745160	C:/Users/karin/Documents/QuickPad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/QuickPad_autogen/timestamp	9ffdcbfe113dac12
+24	1453	7962336526745160	C:/Users/karin/Documents/QuickPad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/QuickPad_autogen/mocs_compilation.cpp	9ffdcbfe113dac12
+1456	7201	7962336528337458	CMakeFiles/QuickPad.dir/QuickPad_autogen/mocs_compilation.cpp.obj	a931103792cefe7
+1467	7321	7962336528451122	CMakeFiles/QuickPad.dir/main.cpp.obj	905ed7ed80096b59
+1488	8466	7962336528655558	CMakeFiles/QuickPad.dir/mainwindow.cpp.obj	843d85794f1069b8
+8466	9463	7962336598430644	QuickPad.exe	d417d6f73a1dcf8e
